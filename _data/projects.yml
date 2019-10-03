@@ -13,16 +13,7 @@
     <code>Ruby on Rails</code>, <code>Postgresql</code>, <code>Bootstrap</code>, <code>Rspec</code>, <code>Capybara</code>, <code>Bcrypt</code>, <code>Guard</code>
 
 - layout: top-middle
-  name: Bookshelf
-  link: my-online-bookshelf.herokuapp.com/
-  github: Kthom1/Bookshelf
+  name: React Native Game
+  github: Kthom1/ReactNativeGame
   description: |
-    An application I made to keep track of the books I was reading.
-
-    This application uses the <code>Responders</code> gem to set up a JSON API with <code>Ruby on Rails</code>.
-
-    The frontend of the application is built with <code>React</code> and <code>Bootstrap</code>.
-
-    Deployed with <code>Heroku</code>
-
-    <code>Ruby on Rails</code>, <code>Postgresql</code>, <code>React</code>, <code>Bootstrap</code>, <code>Heroku</code>, <code>Responders</code>
+    This is a basic (higher or lower) number guessing game in <code>React Native</code>.
