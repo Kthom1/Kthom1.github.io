@@ -10,10 +10,30 @@
 
     Full testing with <code>Rspec</code> and <code>Capybara</code>
 
+    -----------------------------------------------------------------
+
     <code>Ruby on Rails</code>, <code>Postgresql</code>, <code>Bootstrap</code>, <code>Rspec</code>, <code>Capybara</code>, <code>Bcrypt</code>, <code>Guard</code>
+
+- layout: top-middle
+  name: Book List
+  github: Kthom1/BookList
+  description: |
+    This is a basic CRUD application used to keep track of books.
+
+    Uses <code>React Native</code>, <code>React Router</code>, <code>React Redux</code>, and <code>Apollo React</code> on the client side
+
+    Uses <code>Express</code>, <code>Graphql</code>, <code>MongoDB</code>, and <code>Mongoose</code> on the server side
+
+    -----------------------------------------------------------------
+
+    <code>React Native</code>, <code>React Router</code>, <code>React Redux</code>, <code>Apollo React</code>, <code>Express</code>, <code>Graphql</code>, <code>MongoDB</code>
 
 - layout: top-middle
   name: React Native Game
   github: Kthom1/ReactNativeGame
   description: |
     This is a basic (higher or lower) number guessing game in <code>React Native</code>.
+
+    -----------------------------------------------------------------
+
+    <code>React Native</code>
