@@ -15,6 +15,19 @@
     <code>Ruby on Rails</code>, <code>Postgresql</code>, <code>Bootstrap</code>, <code>Rspec</code>, <code>Capybara</code>, <code>Bcrypt</code>, <code>Guard</code>
 
 - layout: top-middle
+  name: Rails Chat
+  link: https://chat-on-rails.herokuapp.com/users/sign_in
+  github: Kthom1/railschat
+  description: |
+    Real-time chat application made with <code>Ruby on Rails</code>
+
+    Features user management with <code>Devise</code>
+
+    ----------------------------------------------------------------
+
+    <code>Ruby on Rails</code>, <code>Postgresql</code>, <code>Bootstrap</code>, <code>Devise</code>, <code>Guard</code>
+
+- layout: top-middle
   name: Book List
   github: Kthom1/BookList
   description: |
