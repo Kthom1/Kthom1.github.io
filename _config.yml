@@ -44,7 +44,7 @@ about_content: | # this will include new lines to allow paragraphs
 # educaton_title: Education
 
 # More Section
-more_title: Awards and Certifications
+more_title: Awards, Certifications, and Publications
 more_content: | # this will include new lines to allow paragraphs
   <mark>Awards</mark>
   - Glenwood G. Clark Fiction Prize – 1st Place (The College of William and Mary Alumni Association)
@@ -52,6 +52,9 @@ more_content: | # this will include new lines to allow paragraphs
 
   <mark>Certifications</mark>
   - Japanese Language Proficiency Test - N2 (December 2013)
+
+  <mark>Publications</mark>
+  - [Japanese Immigration to Brazil and Japanese-Brazilian Immigration to Japan: A Comparative Look at Labor Conditions, Cultural Barriers, and State Policies](https://www.hyread.com.tw/hyreadnew/search_detail_new.jsp?sysid=00551202)
 
 # Footer
 footer_show_references: true
