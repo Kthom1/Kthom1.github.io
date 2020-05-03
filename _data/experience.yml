@@ -1,4 +1,15 @@
 - layout: left
+  company: One More Drink
+  link: onemoredrink.app
+  job_title: Software Engineer
+  dates: 2019 - Current
+  quote: >
+  description: | # this will include new lines to allow paragraphs
+
+
+    At One More Drink I develop web interfaces with VueJS, API endpoints using Express and GraphQL, and an Android and iOS-ready mobile application using React Native.
+
+- layout: left
   company: Rakuten
   link: rakuten.co.jp
   job_title: Software Engineer

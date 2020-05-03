@@ -26,13 +26,17 @@ about_profile_image: images/profile1.jpg
 about_content: | # this will include new lines to allow paragraphs
   I'm an American software engineer who speaks Japanese and has extensive experience working abroad.
   In China I worked at a relatively small company with only a few dozen employees, and in Japan I worked at one of the largest companies in the country.
-  I have experience working remotely, and I'm a strong communicator.
+  I'm a strong communicator who has experience with remote working. 
 
-  Now located in: <mark>Taipei, Taiwan</mark>
+  <strong>I'm currently accepting new projects, so feel free to send me an email.</strong>
 
-  I am most skilled in: <code>Ruby on Rails</code>, <code>React</code>, <code>React-Native</code>, and <code>Express</code>
+  <h4>Top Skills</h4>
 
-  Now I'm learning: <code>Flutter</code>
+  <code>Ruby on Rails</code>, <code>React</code>, <code>React-Native</code>, <code>Vue</code>, <code>Express</code>, <code>GraphQL</code>, <code>MongoDB</code>
+
+  <h4>Hire Me</h4>
+
+  To hire me for a project, send me an email <a href="mailto:keenan.thompson67@gmail.com">here</a>.
 
 # Projects Section
 # projects_title: Projects
