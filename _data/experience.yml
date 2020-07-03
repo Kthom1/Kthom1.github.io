@@ -7,8 +7,7 @@
   description: | # this will include new lines to allow paragraphs
 
 
-
-
+    <mark>Remote</mark>
 
     At One More Drink I develop web interfaces with VueJS, API endpoints using Express and GraphQL, and an Android and iOS-ready mobile application using React Native.
 
