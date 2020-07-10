@@ -1,4 +1,13 @@
 - layout: left
+  name: National Taiwan Normal University
+  dates: 2020 - 2021
+  qualification: Master's Computer Science and Information Engineering
+  description: | # this will include new lines to allow paragraphs
+    <mark>Taipei, Taiwan</mark>
+
+    Currently pursuing.
+
+- layout: left
   name: Tamkang University
   dates: 2018 - 2019
   qualification: Master's Taiwan and Asia-Pacific Studies
