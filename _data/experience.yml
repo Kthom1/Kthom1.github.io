@@ -1,5 +1,22 @@
 - layout: left
-  company: One More Drink
+  company: Virdee
+  link: virdee.co
+  job_title: Senior Software Engineer
+  dates: 2020 - Current
+  quote: >
+  description: | # this will include new lines to allow paragraphs
+
+
+
+    <mark>Remote</mark>
+
+
+    -----------------------------------------------------------------
+
+    <code>React</code>, <code>React Native</code> , <code>NodeJS</code>, <code>GraphQL</code>, <code>Postgresql</code>, <code>Prisma</code>, <code>AWS</code>, <code>Heroku</code>
+
+- layout: left
+  company: OneMoreDrink
   link: onemoredrink.app
   job_title: Software Engineer
   dates: 2019 - Current
@@ -7,13 +24,17 @@
   description: | # this will include new lines to allow paragraphs
 
 
+
+
+
+
     <mark>Remote</mark>
 
-    At One More Drink I develop web interfaces with VueJS, API endpoints using Express and GraphQL, and an Android and iOS-ready mobile application using React Native.
+    I am the lead developer behind the OneMoreDrink [web](https://web.onemoredrink.app) and [mobile](https://play.google.com/store/apps/details?id=app.onemoredrink.onemoredrink) applications (available now on Android and coming to iOS soon).
 
     -----------------------------------------------------------------
 
-    <code>ReactNative</code> , <code>Vue</code>, <code>Vuetify</code>, <code>Docker</code>, <code>Docker-Compose</code>, <code>Node</code>, <code>GraphQL</code>, <code>MongoDB</code>, <code>AWS</code>
+    <code>ReactNative</code> , <code>Vue</code>, <code>Vuetify</code>, <code>Docker</code>, <code>Docker-Compose</code>, <code>NodeJS</code>, <code>GraphQL</code>, <code>MongoDB</code>, <code>AWS</code>
 
 - layout: left
   company: Rakuten
@@ -44,7 +65,7 @@
 
     At Mobile Now I built mobile applications using a number of frameworks for foreign brands looking to enter the Chinese market.
 
-    I also built and maintained the company's website with <code>Ghost</code>, a <code>Node</code>-based CMS.
+    I also built and maintained the company's website with <code>Ghost</code>, a <code>NodeJS</code>-based CMS.
 
     Worked remotely for several months before moving to my position at Rakuten.
 
